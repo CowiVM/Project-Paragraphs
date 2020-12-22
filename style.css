@@ -1,0 +1,14 @@
+#p2{
+    width: 49%;
+    text-align: right;
+    margin-left: 350px;
+}
+
+#p1{
+    width: 49%;
+    margin-left: 350px;
+}
+
+body {
+    background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
